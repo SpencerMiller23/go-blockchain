@@ -1,7 +1,0 @@
-{
-    "genesis_time": "2022-03-26T00:00:00Z",
-    "chain_id": "spencer-chain",
-    "balances": {
-        "spencer": 1000000
-    }
-}
